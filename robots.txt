@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://insidebirgunj.netlify.app/sitemap.xml
